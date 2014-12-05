@@ -154,6 +154,62 @@ title: Structured Threat Treasure Map
   </tr>
 
   <tr>
+    <td>stix&#8209;ramrod</td>
+    <td>
+      <a href="http://github.com/STIXProject/stix-ramrod"><img src="images/github.png"></a>
+    </td>
+    <td>
+      <a href="https://pypi.python.org/pypi/stix-ramrod">
+        <img src="https://pypip.in/v/stix-ramrod/badge.png" alt="PyPI Version" />
+      </a>
+    </td>
+    <td>
+      <a href="http://stix-ramrod.readthedocs.org">
+        <img src="https://readthedocs.org/projects/stix-ramrod/badge/?version=latest" alt="Documentation Status" />
+      </a>
+    </td>
+    <td>
+      <a href="http://travis-ci.org/STIXProject/stix-ramrod">
+        <img src="https://travis-ci.org/STIXProject/stix-ramrod.svg?branch=master" alt="Build Status" />
+      </a>
+    </td>
+    <td>
+      <a href="https://landscape.io/github/STIXProject/stix-ramrod">
+        <img alt="Code Health" src="https://landscape.io/github/STIXProject/stix-ramrod/master/landscape.svg"/>
+      </a>
+    </td>
+    <td><a href="http://readthedocs.org/projects/stix-ramrod">Admin</a></td>
+  </tr>
+
+  <tr>
+    <td>stix&#8209;validator</td>
+    <td>
+      <a href="http://github.com/STIXProject/stix-validator"><img src="images/github.png"></a>
+    </td>
+    <td>
+      <a href="https://pypi.python.org/pypi/stix-validator">
+        <img src="https://pypip.in/v/stix-validator/badge.png" alt="PyPI Version" />
+      </a>
+    </td>
+    <td>
+      <a href="http://stix-validator.readthedocs.org">
+        <img src="https://readthedocs.org/projects/stix-validator/badge/?version=latest" alt="Documentation Status" />
+      </a>
+    </td>
+    <td>
+      <a href="http://travis-ci.org/STIXProject/stix-validator">
+        <img src="https://travis-ci.org/STIXProject/stix-validator.svg?branch=master" alt="Build Status" />
+      </a>
+    </td>
+    <td>
+      <a href="https://landscape.io/github/STIXProject/stix-validator">
+        <img alt="Code Health" src="https://landscape.io/github/STIXProject/stix-validator/master/landscape.svg"/>
+      </a>
+    </td>
+    <td><a href="http://readthedocs.org/projects/stix-validator">Admin</a></td>
+  </tr>
+
+  <tr>
     <td>libtaxii</td>
     <td>
       <a href="http://github.com/TAXIIProject/libtaxii"><img src="images/github.png"></a>
