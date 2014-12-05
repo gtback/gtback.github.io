@@ -68,38 +68,66 @@ title: Structured Threat Treasure Map
     <th>Landscape.io</th>
     <th>ReadTheDocs</th>
   </tr>
+
   <tr>
     <td>python&#8209;cybox</td>
-    <td><a href="http://github.com/CybOXProject/python-cybox"><img src="images/github.png"></a></td>
+    <td>
+      <a href="http://github.com/CybOXProject/python-cybox"><img src="images/github.png"></a>
+    </td>
     <td><a href="https://pypi.python.org/pypi/cybox">Go</a></td>
-    <td><a href="http://cybox.readthedocs.org"><img src="https://readthedocs.org/projects/cybox/badge/?version=latest" alt="Documentation Status" /></a></td>
+    <td>
+      <a href="http://cybox.readthedocs.org">
+        <img src="https://readthedocs.org/projects/cybox/badge/?version=latest" alt="Documentation Status" />
+      </a>
+    </td>
     <td><a href="http://travis-ci.org/CybOXProject/python-cybox">Go</a></td>
     <td><a href="https://landscape.io/github/CybOXProject/python-cybox">Go</a></td>
     <td><a href="http://readthedocs.org/projects/cybox">Go</a></td>
   </tr>
+
   <tr>
     <td>python&#8209;maec</td>
-    <td><a href="http://github.com/MAECProject/python-maec">Go</a></td>
+    <td>
+      <a href="http://github.com/MAECProject/python-maec"><img src="images/github.png"></a>
+    </td>
     <td><a href="https://pypi.python.org/pypi/maec">Go</a></td>
-    <td><a href="http://maec.readthedocs.org"><img src="https://readthedocs.org/projects/maec/badge/?version=latest" alt="Documentation Status" /></a></td>
+    <td>
+      <a href="http://maec.readthedocs.org">
+        <img src="https://readthedocs.org/projects/maec/badge/?version=latest" alt="Documentation Status" />
+      </a>
+    </td>
     <td><a href="http://travis-ci.org/MAECProject/python-maec">Go</a></td>
     <td><a href="https://landscape.io/github/MAECProject/python-maec">Go</a></td>
     <td><a href="http://readthedocs.org/projects/maec">Go</a></td>
   </tr>
+
   <tr>
     <td>python&#8209;stix</td>
-    <td><a href="http://github.com/STIXProject/python-stix">Go</a></td>
+    <td>
+      <a href="http://github.com/STIXProject/python-stix"><img src="images/github.png"></a>
+    </td>
     <td><a href="https://pypi.python.org/pypi/stix">Go</a></td>
-    <td><a href="http://stix.readthedocs.org"><img src="https://readthedocs.org/projects/stix/badge/?version=latest" alt="Documentation Status" /></a></td>
+    <td>
+      <a href="http://stix.readthedocs.org">
+        <img src="https://readthedocs.org/projects/stix/badge/?version=latest" alt="Documentation Status" />
+      </a>
+    </td>
     <td><a href="http://travis-ci.org/STIXProject/python-stix">Go</a></td>
     <td><a href="https://landscape.io/github/STIXProject/python-stix">Go</a></td>
     <td><a href="http://readthedocs.org/projects/stix">Go</a></td>
   </tr>
+
   <tr>
     <td>libtaxii</td>
-    <td><a href="http://github.com/TAXIIProject/libtaxii">Go</a></td>
+    <td>
+      <a href="http://github.com/TAXIIProject/libtaxii"><img src="images/github.png"></a>
+    </td>
     <td><a href="https://pypi.python.org/pypi/libtaxii">Go</a></td>
-    <td><a href="http://libtaxii.readthedocs.org"><img src="https://readthedocs.org/projects/libtaxii/badge/?version=latest" alt="Documentation Status" /></a></td>
+    <td>
+      <a href="http://libtaxii.readthedocs.org">
+        <img src="https://readthedocs.org/projects/libtaxii/badge/?version=latest" alt="Documentation Status" />
+      </a>
+    </td>
     <td><a href="http://travis-ci.org/TAXIIProject/libtaxii">Go</a></td>
     <td><a href="https://landscape.io/github/TAXIIProject/libtaxii">Go</a></td>
     <td><a href="http://readthedocs.org/projects/libtaxii">Go</a></td>
