@@ -1,6 +1,12 @@
 ---
-title: Structured Threat Treasure Map
+title: Cyber Threat Intel Treasure Map
 ---
+
+<div class="panel panel-default">
+  <div class="panel-body">
+    <strong>What is this?</strong> This page is meant to provide as many links as possible to the various sites and resources for CybOX, MAEC, STIX, and TAXII.
+  </div>
+</div>
 
 ## Languages
 
@@ -13,46 +19,56 @@ title: Structured Threat Treasure Map
     <td><img src="images/taxii.png" /></td>
   </tr>
   <tr>
-    <td>Main Site</td>
-    <td><a href="http://cybox.mitre.org">CybOX</a></td>
-    <td><a href="http://maec.mitre.org">MAEC</a></td>
-    <td><a href="http://stix.mitre.org">STIX</a></td>
-    <td><a href="http://taxii.mitre.org">TAXII</a></td>
+    <td>Home Page</td>
+    <td><a href="http://cybox.mitre.org">cybox.mitre.org</a></td>
+    <td><a href="http://maec.mitre.org">maec.mitre.org</a></td>
+    <td><a href="http://stix.mitre.org">stix.mitre.org</a></td>
+    <td><a href="http://taxii.mitre.org">taxii.mitre.org</a></td>
   </tr>
   <tr>
-    <td>Discussion List</td>
-    <td><a href="http://cybox.mitre.org/community/registration.html">cybox-discussion</a></td>
-    <td><a href="http://maec.mitre.org/community/discussionlist.html">maec-discussion</a></td>
-    <td><a href="http://stix.mitre.org/community/registration.html">stix-discussion</a></td>
-    <td><a href="http://taxii.mitre.org/community/registration.html">taxii-discussion</a></td>
+    <td>Documentation</td>
+    <td>
+      <a href="http://cyboxproject.github.io">cyboxproject.github.io</a>
+      <a href="http://github.com/CybOXProject/cyboxproject.github.io"><img src="images/github.png"></a>
+    </td>
+    <td>
+      <a href="http://maecproject.github.io">maecproject.github.io</a>
+      <a href="http://github.com/MAECProject/maecproject.github.io"><img src="images/github.png"></a>
+    </td>
+    <td>
+      <a href="http://stixproject.github.io">stixproject.github.io</a>
+      <a href="http://github.com/STIXProject/stixproject.github.io"><img src="images/github.png"></a>
+    </td>
+    <td>
+      <a href="http://taxiiproject.github.io">taxiiproject.github.io</a>
+      <a href="http://github.com/TAXIIProject/taxiiproject.github.io"><img src="images/github.png"></a>
+    </td>
   </tr>
   <tr>
-    <td>Discussion Archives</td>
-    <td><a href="http://making-security-measurable.1364806.n2.nabble.com/CybOX-Discussion-List-Archive-f7579263.html">Archives</a></td>
-    <td><a href="http://making-security-measurable.1364806.n2.nabble.com/MAEC-Malware-Attribute-Enumeration-and-Characterization-f4094903.html">Archives</a></td>
-    <td><a href="http://making-security-measurable.1364806.n2.nabble.com/STIX-Discussion-List-f7579090.html">Archives</a></td>
-    <td><a href="http://making-security-measurable.1364806.n2.nabble.com/TAXII-Discussion-List-Archive-f7579264.html">Archives</a></td>
-  </tr>
-  <tr>
-    <td>GitHub.io</td>
-    <td><a href="http://cyboxproject.github.io">CybOX</a></td>
-    <td><a href="http://maecproject.github.io">MAEC</a></td>
-    <td><a href="http://stixproject.github.io">STIX</a></td>
-    <td><a href="http://taxiiproject.github.io">TAXII</a></td>
-  </tr>
-  <tr>
-    <td>GitHub.io Repo</td>
-    <td><a href="http://github.com/CybOXProject/cyboxproject.github.io">CybOX</a></td>
-    <td><a href="http://github.com/MAECProject/maecproject.github.io">MAEC</a></td>
-    <td><a href="http://github.com/STIXProject/stixproject.github.io">STIX</a></td>
-    <td><a href="http://github.com/TAXIIProject/taxiiproject.github.io">TAXII</a></td>
-  </tr>
-  <tr>
-    <td>Schemas/Specs</td>
+    <td>Schemas &amp; Specs</td>
     <td><a href="http://github.com/CybOXProject/schemas">CybOX Schemas</a></td>
     <td><a href="http://github.com/MAECProject/schemas">MAEC Schemas</a></td>
     <td><a href="http://github.com/STIXProject/schemas">STIX Schemas</a></td>
-    <td><a href="http://github.com/TAXIIProject/TAXII-Specifications">TAXII Specs</a></td>
+    <td><a href="http://github.com/TAXIIProject/TAXII-Specifications">TAXII Specifications</a></td>
+  </tr>
+  <tr>
+    <td>Discussion List</td>
+    <td>
+      <a href="http://cybox.mitre.org/community/registration.html">cybox-discussion-list</a><br />
+      (<a href="http://making-security-measurable.1364806.n2.nabble.com/CybOX-Discussion-List-Archive-f7579263.html">Archives</a>)
+    </td>
+    <td>
+      <a href="http://maec.mitre.org/community/discussionlist.html">maec-discussion-list</a><br />
+      (<a href="http://making-security-measurable.1364806.n2.nabble.com/MAEC-Malware-Attribute-Enumeration-and-Characterization-f4094903.html">Archives</a>)
+    </td>
+    <td>
+      <a href="http://stix.mitre.org/community/registration.html">stix-discussion-list</a><br />
+      (<a href="http://making-security-measurable.1364806.n2.nabble.com/STIX-Discussion-List-f7579090.html">Archives</a>)
+    </td>
+    <td>
+      <a href="http://taxii.mitre.org/community/registration.html">taxii-discussion-list</a><br />
+      (<a href="http://making-security-measurable.1364806.n2.nabble.com/TAXII-Discussion-List-Archive-f7579264.html">Archives</a>)
+    </td>
   </tr>
 </table>
 
