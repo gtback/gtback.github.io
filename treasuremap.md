@@ -253,4 +253,31 @@ title: Cyber Threat Intel Treasure Map
     <td><a href="http://readthedocs.org/projects/libtaxii">Admin</a></td>
   </tr>
 
+  <tr>
+    <td>taxii-services</td>
+    <td>
+      <a href="http://github.com/TAXIIProject/django-taxii-services"><img src="images/github.png"></a>
+    </td>
+    <td>
+      <a href="https://pypi.python.org/pypi/taxii-services">
+        <img src="https://pypip.in/v/taxii-services/badge.png" alt="PyPI Version" />
+      </a>
+    </td>
+    <td>
+      <a href="http://taxii-services.readthedocs.org">
+        <img src="https://readthedocs.org/projects/taxii-services/badge/?version=latest" alt="Documentation Status" />
+      </a>
+    </td>
+    <td>
+      <a href="http://travis-ci.org/TAXIIProject/django-taxii-services">
+        <img src="https://travis-ci.org/TAXIIProject/django-taxii-services.svg?branch=master" alt="Build Status" />
+      </a>
+    </td>
+    <td>
+      <a href="https://landscape.io/github/TAXIIProject/django-taxii-services">
+        <img alt="Code Health" src="https://landscape.io/github/TAXIIProject/django-taxii-services/master/landscape.svg"/>
+      </a>
+    </td>
+    <td><a href="http://readthedocs.org/projects/taxii-services">Admin</a></td>
+  </tr>
 </table>
