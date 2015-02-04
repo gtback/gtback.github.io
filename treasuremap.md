@@ -72,7 +72,7 @@ title: Cyber Threat Intel Treasure Map
   </tr>
 </table>
 
-## Python Libraries
+## Libraries
 
 <table class="table">
   <tr>
@@ -279,5 +279,21 @@ title: Cyber Threat Intel Treasure Map
       </a>
     </td>
     <td><a href="http://readthedocs.org/projects/taxii-services">Admin</a></td>
+  </tr>
+
+  <tr>
+    <td>java-taxii</td>
+    <td>
+      <a href="http://github.com/TAXIIProject/java-taxii"><img src="images/github.png"></a>
+    </td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="http://travis-ci.org/TAXIIProject/java-taxii">
+        <img src="https://travis-ci.org/TAXIIProject/java-taxii.svg?branch=master" alt="Build Status" />
+      </a>
+    </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
