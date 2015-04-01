@@ -97,6 +97,9 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="http://cybox.readthedocs.org">
+        <img src="https://readthedocs.org/projects/cybox/badge/?version=stable" alt="Documentation Status" />
+      </a>
+      <a href="http://cybox.readthedocs.org/en/latest">
         <img src="https://readthedocs.org/projects/cybox/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -125,6 +128,9 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="http://maec.readthedocs.org">
+        <img src="https://readthedocs.org/projects/maec/badge/?version=stable" alt="Documentation Status" />
+      </a>
+      <a href="http://maec.readthedocs.org/en/latest">
         <img src="https://readthedocs.org/projects/maec/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -153,6 +159,9 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="http://stix.readthedocs.org">
+        <img src="https://readthedocs.org/projects/stix/badge/?version=stable" alt="Documentation Status" />
+      </a>
+      <a href="http://stix.readthedocs.org/en/latest">
         <img src="https://readthedocs.org/projects/stix/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -181,6 +190,9 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="http://stix-ramrod.readthedocs.org">
+        <img src="https://readthedocs.org/projects/stix-ramrod/badge/?version=stable" alt="Documentation Status" />
+      </a>
+      <a href="http://stix-ramrod.readthedocs.org/en/latest">
         <img src="https://readthedocs.org/projects/stix-ramrod/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -209,6 +221,9 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="http://stix-validator.readthedocs.org">
+        <img src="https://readthedocs.org/projects/stix-validator/badge/?version=stable" alt="Documentation Status" />
+      </a>
+      <a href="http://stix-validator.readthedocs.org/en/latest">
         <img src="https://readthedocs.org/projects/stix-validator/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -237,6 +252,9 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="http://libtaxii.readthedocs.org">
+        <img src="https://readthedocs.org/projects/libtaxii/badge/?version=stable" alt="Documentation Status" />
+      </a>
+      <a href="http://libtaxii.readthedocs.org/en/latest">
         <img src="https://readthedocs.org/projects/libtaxii/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -265,6 +283,9 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="http://taxii-services.readthedocs.org">
+        <img src="https://readthedocs.org/projects/taxii-services/badge/?version=stable" alt="Documentation Status" />
+      </a>
+      <a href="http://taxii-services.readthedocs.org/en/latest">
         <img src="https://readthedocs.org/projects/taxii-services/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
