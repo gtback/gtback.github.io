@@ -86,6 +86,37 @@ title: Cyber Threat Intel Treasure Map
   </tr>
 
   <tr>
+    <td>mixbox</td>
+    <td>
+      <a href="http://github.com/CybOXProject/mixbox"><img src="images/github.png"></a>
+    </td>
+    <td>
+      <a href="https://pypi.python.org/pypi/mixbox">
+        <img src="https://pypip.in/v/mixbox/badge.png" alt="PyPI Version" />
+      </a>
+    </td>
+    <td>
+      <!--<a href="http://mixbox.readthedocs.org">
+        <img src="https://readthedocs.org/projects/mixbox/badge/?version=stable" alt="Documentation Status" />
+      </a>
+      <a href="http://mixbox.readthedocs.org/en/latest">
+        <img src="https://readthedocs.org/projects/mixbox/badge/?version=latest" alt="Documentation Status" />
+      </a>-->
+    </td>
+    <td>
+      <a href="http://travis-ci.org/CybOXProject/mixbox">
+        <img src="https://travis-ci.org/CybOXProject/mixbox.svg?branch=master" alt="Build Status" />
+      </a>
+    </td>
+    <td>
+      <a href="https://landscape.io/github/CybOXProject/mixbox">
+        <img alt="Code Health" src="https://landscape.io/github/CybOXProject/mixbox/master/landscape.svg"/>
+      </a>
+    </td>
+    <td><!--<a href="http://readthedocs.org/projects/mixbox">Admin</a>--></td>
+  </tr>
+
+  <tr>
     <td>python&#8209;cybox</td>
     <td>
       <a href="http://github.com/CybOXProject/python-cybox"><img src="images/github.png"></a>
