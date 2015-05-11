@@ -272,6 +272,37 @@ title: Cyber Threat Intel Treasure Map
   </tr>
 
   <tr>
+    <td>maec&#8209;to&#8209;stix</td>
+    <td>
+      <a href="http://github.com/MAECProject/maec-to-stix"><img src="images/github.png"></a>
+    </td>
+    <td><!--
+      <a href="https://pypi.python.org/pypi/maec">
+        <img src="https://pypip.in/v/maec/badge.png" alt="PyPI Version" />
+      </a>-->
+    </td>
+    <td>
+      <!--<a href="http://maec.readthedocs.org">
+        <img src="https://readthedocs.org/projects/maec/badge/?version=stable" alt="Documentation Status" />
+      </a>-->
+      <a href="http://maec-to-stix.readthedocs.org/en/latest">
+        <img src="https://readthedocs.org/projects/maec-to-stix/badge/?version=latest" alt="Documentation Status" />
+      </a>
+    </td>
+    <td><!--
+      <a href="http://travis-ci.org/MAECProject/python-maec">
+        <img src="https://travis-ci.org/MAECProject/python-maec.svg?branch=master" alt="Build Status" />
+      </a>-->
+    </td>
+    <td><!--
+      <a href="https://landscape.io/github/MAECProject/python-maec">
+        <img alt="Code Health" src="https://landscape.io/github/MAECProject/python-maec/master/landscape.svg"/>
+      </a>-->
+    </td>
+    <td><a href="http://readthedocs.org/projects/maec-to-stix">Admin</a></td>
+  </tr>
+
+  <tr>
     <td>libtaxii</td>
     <td>
       <a href="http://github.com/TAXIIProject/libtaxii"><img src="images/github.png"></a>
