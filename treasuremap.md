@@ -92,7 +92,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://pypi.python.org/pypi/mixbox">
-        <img src="https://pypip.in/v/mixbox/badge.png" alt="PyPI Version" />
+        <img src="https://img.shields.io/pypi/v/mixbox.svg" alt="PyPI Version" />
       </a>
     </td>
     <td>
@@ -123,7 +123,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://pypi.python.org/pypi/cybox">
-        <img src="https://pypip.in/v/cybox/badge.png" alt="PyPI Version" />
+        <img src="https://img.shields.io/pypi/v/cybox.svg" alt="PyPI Version" />
       </a>
     </td>
     <td>
@@ -154,7 +154,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://pypi.python.org/pypi/maec">
-        <img src="https://pypip.in/v/maec/badge.png" alt="PyPI Version" />
+        <img src="https://img.shields.io/pypi/v/maec.svg" alt="PyPI Version" />
       </a>
     </td>
     <td>
@@ -185,7 +185,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://pypi.python.org/pypi/stix">
-        <img src="https://pypip.in/v/stix/badge.png" alt="PyPI Version" />
+        <img src="https://img.shields.io/pypi/v/stix.svg" alt="PyPI Version" />
       </a>
     </td>
     <td>
@@ -216,7 +216,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://pypi.python.org/pypi/stix-ramrod">
-        <img src="https://pypip.in/v/stix-ramrod/badge.png" alt="PyPI Version" />
+        <img src="https://img.shields.io/pypi/v/stix-ramrod.svg" alt="PyPI Version" />
       </a>
     </td>
     <td>
@@ -247,7 +247,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://pypi.python.org/pypi/stix-validator">
-        <img src="https://pypip.in/v/stix-validator/badge.png" alt="PyPI Version" />
+        <img src="https://img.shields.io/pypi/v/stix-validator.svg" alt="PyPI Version" />
       </a>
     </td>
     <td>
@@ -278,7 +278,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td><!--
       <a href="https://pypi.python.org/pypi/maec">
-        <img src="https://pypip.in/v/maec/badge.png" alt="PyPI Version" />
+        <img src="https://img.shields.io/pypi/v/maec.svg" alt="PyPI Version" />
       </a>-->
     </td>
     <td>
@@ -309,7 +309,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://pypi.python.org/pypi/libtaxii">
-        <img src="https://pypip.in/v/libtaxii/badge.png" alt="PyPI Version" />
+        <img src="https://img.shields.io/pypi/v/libtaxii.svg" alt="PyPI Version" />
       </a>
     </td>
     <td>
@@ -340,7 +340,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://pypi.python.org/pypi/taxii-services">
-        <img src="https://pypip.in/v/taxii-services/badge.png" alt="PyPI Version" />
+        <img src="https://img.shields.io/pypi/v/taxii-services.svg" alt="PyPI Version" />
       </a>
     </td>
     <td>
