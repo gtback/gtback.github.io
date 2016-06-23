@@ -45,10 +45,17 @@ title: Cyber Threat Intel Treasure Map
     </td>
   </tr>
   <tr>
-    <td>Schemas &amp; Specs</td>
+    <td>Schemas</td>
     <td><a href="http://github.com/CybOXProject/schemas">CybOX Schemas</a></td>
     <td><a href="http://github.com/MAECProject/schemas">MAEC Schemas</a></td>
     <td><a href="http://github.com/STIXProject/schemas">STIX Schemas</a></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Specifications</td>
+    <td><a href="http://github.com/CybOXProject/specifications">CybOX Specifications</a></td>
+    <td><a href="http://github.com/MAECProject/specifications">MAEC Specifications</a></td>
+    <td><a href="http://github.com/STIXProject/specifications">STIX Specifications</a></td>
     <td><a href="http://github.com/TAXIIProject/TAXII-Specifications">TAXII Specifications</a></td>
   </tr>
   <tr>
