@@ -386,4 +386,24 @@ title: Cyber Threat Intel Treasure Map
     <td></td>
     <td></td>
   </tr>
+
+  <tr>
+    <td>openioc-to-stix</td>
+    <td>
+      <a href="http://github.com/STIXProject/openioc-to-stix"><img src="images/github.png"></a>
+    </td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="http://travis-ci.org/STIXProject/openioc-to-stix">
+        <img src="https://travis-ci.org/STIXProject/openioc-to-stix.svg?branch=master" alt="Build Status" />
+      </a>
+    </td>
+    <td>
+      <a href="https://landscape.io/github/STIXProject/openioc-to-stix">
+        <img alt="Code Health" src="https://landscape.io/github/STIXProject/openioc-to-stix/master/landscape.svg"/>
+      </a>
+    </td>
+    <td></td>
+  </tr>
 </table>
