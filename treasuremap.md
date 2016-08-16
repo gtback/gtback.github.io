@@ -117,7 +117,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://landscape.io/github/CybOXProject/mixbox">
-        <img alt="Code Health" src="https://landscape.io/github/CybOXProject/mixbox/master/landscape.svg"/>
+        <img alt="Code Health" src="https://landscape.io/github/CybOXProject/mixbox/master/landscape.svg?style=flat"/>
       </a>
     </td>
     <td><!--<a href="http://readthedocs.org/projects/mixbox">Admin</a>--></td>
@@ -148,7 +148,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://landscape.io/github/CybOXProject/python-cybox">
-        <img alt="Code Health" src="https://landscape.io/github/CybOXProject/python-cybox/master/landscape.svg"/>
+        <img alt="Code Health" src="https://landscape.io/github/CybOXProject/python-cybox/master/landscape.svg?style=flat"/>
       </a>
     </td>
     <td><a href="http://readthedocs.org/projects/cybox">Admin</a></td>
@@ -179,7 +179,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://landscape.io/github/MAECProject/python-maec">
-        <img alt="Code Health" src="https://landscape.io/github/MAECProject/python-maec/master/landscape.svg"/>
+        <img alt="Code Health" src="https://landscape.io/github/MAECProject/python-maec/master/landscape.svg?style=flat"/>
       </a>
     </td>
     <td><a href="http://readthedocs.org/projects/maec">Admin</a></td>
@@ -210,7 +210,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://landscape.io/github/STIXProject/python-stix">
-        <img alt="Code Health" src="https://landscape.io/github/STIXProject/python-stix/master/landscape.svg"/>
+        <img alt="Code Health" src="https://landscape.io/github/STIXProject/python-stix/master/landscape.svg?style=flat"/>
       </a>
     </td>
     <td><a href="http://readthedocs.org/projects/stix">Admin</a></td>
@@ -241,7 +241,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://landscape.io/github/STIXProject/stix-ramrod">
-        <img alt="Code Health" src="https://landscape.io/github/STIXProject/stix-ramrod/master/landscape.svg"/>
+        <img alt="Code Health" src="https://landscape.io/github/STIXProject/stix-ramrod/master/landscape.svg?style=flat"/>
       </a>
     </td>
     <td><a href="http://readthedocs.org/projects/stix-ramrod">Admin</a></td>
@@ -272,7 +272,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://landscape.io/github/STIXProject/stix-validator">
-        <img alt="Code Health" src="https://landscape.io/github/STIXProject/stix-validator/master/landscape.svg"/>
+        <img alt="Code Health" src="https://landscape.io/github/STIXProject/stix-validator/master/landscape.svg?style=flat"/>
       </a>
     </td>
     <td><a href="http://readthedocs.org/projects/stix-validator">Admin</a></td>
@@ -303,7 +303,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td><!--
       <a href="https://landscape.io/github/MAECProject/python-maec">
-        <img alt="Code Health" src="https://landscape.io/github/MAECProject/python-maec/master/landscape.svg"/>
+        <img alt="Code Health" src="https://landscape.io/github/MAECProject/python-maec/master/landscape.svg?style=flat"/>
       </a>-->
     </td>
     <td><a href="http://readthedocs.org/projects/maec-to-stix">Admin</a></td>
@@ -334,7 +334,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://landscape.io/github/TAXIIProject/libtaxii">
-        <img alt="Code Health" src="https://landscape.io/github/TAXIIProject/libtaxii/master/landscape.svg"/>
+        <img alt="Code Health" src="https://landscape.io/github/TAXIIProject/libtaxii/master/landscape.svg?style=flat"/>
       </a>
     </td>
     <td><a href="http://readthedocs.org/projects/libtaxii">Admin</a></td>
@@ -365,7 +365,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://landscape.io/github/TAXIIProject/django-taxii-services">
-        <img alt="Code Health" src="https://landscape.io/github/TAXIIProject/django-taxii-services/master/landscape.svg"/>
+        <img alt="Code Health" src="https://landscape.io/github/TAXIIProject/django-taxii-services/master/landscape.svg?style=flat"/>
       </a>
     </td>
     <td><a href="http://readthedocs.org/projects/taxii-services">Admin</a></td>
@@ -401,7 +401,7 @@ title: Cyber Threat Intel Treasure Map
     </td>
     <td>
       <a href="https://landscape.io/github/STIXProject/openioc-to-stix">
-        <img alt="Code Health" src="https://landscape.io/github/STIXProject/openioc-to-stix/master/landscape.svg"/>
+        <img alt="Code Health" src="https://landscape.io/github/STIXProject/openioc-to-stix/master/landscape.svg?style=flat"/>
       </a>
     </td>
     <td></td>
