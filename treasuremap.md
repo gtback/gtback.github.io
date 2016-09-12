@@ -103,10 +103,10 @@ title: Cyber Threat Intel Treasure Map
       </a>
     </td>
     <td>
-      <!--<a href="http://mixbox.readthedocs.org">
+      <!--<a href="http://mixbox.readthedocs.io">
         <img src="https://readthedocs.org/projects/mixbox/badge/?version=stable" alt="Documentation Status" />
       </a>
-      <a href="http://mixbox.readthedocs.org/en/latest">
+      <a href="http://mixbox.readthedocs.io/en/latest">
         <img src="https://readthedocs.org/projects/mixbox/badge/?version=latest" alt="Documentation Status" />
       </a>-->
     </td>
@@ -134,10 +134,10 @@ title: Cyber Threat Intel Treasure Map
       </a>
     </td>
     <td>
-      <a href="http://cybox.readthedocs.org">
+      <a href="http://cybox.readthedocs.io">
         <img src="https://readthedocs.org/projects/cybox/badge/?version=stable" alt="Documentation Status" />
       </a>
-      <a href="http://cybox.readthedocs.org/en/latest">
+      <a href="http://cybox.readthedocs.io/en/latest">
         <img src="https://readthedocs.org/projects/cybox/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -165,10 +165,10 @@ title: Cyber Threat Intel Treasure Map
       </a>
     </td>
     <td>
-      <a href="http://maec.readthedocs.org">
+      <a href="http://maec.readthedocs.io">
         <img src="https://readthedocs.org/projects/maec/badge/?version=stable" alt="Documentation Status" />
       </a>
-      <a href="http://maec.readthedocs.org/en/latest">
+      <a href="http://maec.readthedocs.io/en/latest">
         <img src="https://readthedocs.org/projects/maec/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -196,10 +196,10 @@ title: Cyber Threat Intel Treasure Map
       </a>
     </td>
     <td>
-      <a href="http://stix.readthedocs.org">
+      <a href="http://stix.readthedocs.io">
         <img src="https://readthedocs.org/projects/stix/badge/?version=stable" alt="Documentation Status" />
       </a>
-      <a href="http://stix.readthedocs.org/en/latest">
+      <a href="http://stix.readthedocs.io/en/latest">
         <img src="https://readthedocs.org/projects/stix/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -227,10 +227,10 @@ title: Cyber Threat Intel Treasure Map
       </a>
     </td>
     <td>
-      <a href="http://stix-ramrod.readthedocs.org">
+      <a href="http://stix-ramrod.readthedocs.io">
         <img src="https://readthedocs.org/projects/stix-ramrod/badge/?version=stable" alt="Documentation Status" />
       </a>
-      <a href="http://stix-ramrod.readthedocs.org/en/latest">
+      <a href="http://stix-ramrod.readthedocs.io/en/latest">
         <img src="https://readthedocs.org/projects/stix-ramrod/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -258,10 +258,10 @@ title: Cyber Threat Intel Treasure Map
       </a>
     </td>
     <td>
-      <a href="http://stix-validator.readthedocs.org">
+      <a href="http://stix-validator.readthedocs.io">
         <img src="https://readthedocs.org/projects/stix-validator/badge/?version=stable" alt="Documentation Status" />
       </a>
-      <a href="http://stix-validator.readthedocs.org/en/latest">
+      <a href="http://stix-validator.readthedocs.io/en/latest">
         <img src="https://readthedocs.org/projects/stix-validator/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -289,10 +289,10 @@ title: Cyber Threat Intel Treasure Map
       </a>
     </td>
     <td>
-      <!--<a href="http://maec-to-stix.readthedocs.org">
+      <!--<a href="http://maec-to-stix.readthedocs.io">
         <img src="https://readthedocs.org/projects/maec-to-stix/badge/?version=stable" alt="Documentation Status" />
       </a>-->
-      <a href="http://maec-to-stix.readthedocs.org/en/latest">
+      <a href="http://maec-to-stix.readthedocs.io/en/latest">
         <img src="https://readthedocs.org/projects/maec-to-stix/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -320,10 +320,10 @@ title: Cyber Threat Intel Treasure Map
       </a>
     </td>
     <td>
-      <a href="http://libtaxii.readthedocs.org">
+      <a href="http://libtaxii.readthedocs.io">
         <img src="https://readthedocs.org/projects/libtaxii/badge/?version=stable" alt="Documentation Status" />
       </a>
-      <a href="http://libtaxii.readthedocs.org/en/latest">
+      <a href="http://libtaxii.readthedocs.io/en/latest">
         <img src="https://readthedocs.org/projects/libtaxii/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
@@ -351,10 +351,10 @@ title: Cyber Threat Intel Treasure Map
       </a>
     </td>
     <td>
-      <a href="http://taxii-services.readthedocs.org">
+      <a href="http://taxii-services.readthedocs.io">
         <img src="https://readthedocs.org/projects/taxii-services/badge/?version=stable" alt="Documentation Status" />
       </a>
-      <a href="http://taxii-services.readthedocs.org/en/latest">
+      <a href="http://taxii-services.readthedocs.io/en/latest">
         <img src="https://readthedocs.org/projects/taxii-services/badge/?version=latest" alt="Documentation Status" />
       </a>
     </td>
