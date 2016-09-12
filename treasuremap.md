@@ -283,14 +283,14 @@ title: Cyber Threat Intel Treasure Map
     <td>
       <a href="http://github.com/MAECProject/maec-to-stix"><img src="images/github.png"></a>
     </td>
-    <td><!--
-      <a href="https://pypi.python.org/pypi/maec">
-        <img src="https://img.shields.io/pypi/v/maec.svg" alt="PyPI Version" />
-      </a>-->
+    <td>
+      <a href="https://pypi.python.org/pypi/maec-to-stix">
+        <img src="https://img.shields.io/pypi/v/maec-to-stix.svg" alt="PyPI Version" />
+      </a>
     </td>
     <td>
-      <!--<a href="http://maec.readthedocs.org">
-        <img src="https://readthedocs.org/projects/maec/badge/?version=stable" alt="Documentation Status" />
+      <!--<a href="http://maec-to-stix.readthedocs.org">
+        <img src="https://readthedocs.org/projects/maec-to-stix/badge/?version=stable" alt="Documentation Status" />
       </a>-->
       <a href="http://maec-to-stix.readthedocs.org/en/latest">
         <img src="https://readthedocs.org/projects/maec-to-stix/badge/?version=latest" alt="Documentation Status" />
